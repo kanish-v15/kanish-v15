@@ -41,7 +41,7 @@
         <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="60"/><br><sub>Git</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://icons8.com/icon/e6uRfPIDgoXi/amazon-aws" width="50"/><br><sub>AWS</sub>
+        <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="50"/><br><sub>AWS</sub>
       </td>
     </tr>
   </table>
@@ -70,7 +70,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000" width="20" height="20"> GitHub Stats
+## <img src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000" width="30" height="30"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanish-v15&show_icons=true&theme=radical" width="47%"/>
@@ -81,7 +81,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=K24cyk4TVAtl&format=png&color=000000" width="20" height="20"> Connect with Me
+## <img src="https://img.icons8.com/?size=100&id=K24cyk4TVAtl&format=png&color=000000" width="30" height="30"> Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/kanish-v15">
@@ -90,8 +90,8 @@
   <a href="mailto:kanish2233@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="100"/>
   </a>
-   <a href="mailto:kanish2233@gmail.com">
-    <img src="https://x.com/kanish2233?t=SAnu5FYTY5IxPbgjD7Aq-A&s=09" width="100"/>
+   <a href="https://x.com/kanish2233?t=SAnu5FYTY5IxPbgjD7Aq-A&s=09">
+    <img src="https://img.icons8.com/?size=100&id=I02TdaPxbwRz&format=png&color=000000" width="100"/>
   </a>
 </p>
 
