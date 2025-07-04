@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGVhb3pmajNoMW85eGw2b2ticnFsaWZnMDBtYzJ3M3R4Y3k2bHNzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" width="360" alt="Techy backend dev boy gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHQ2ZXIxOGd4bWxzbGZ2bWc0OTA3b25yNTVwOWZ5ZXdjcmtuY290ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" alt="Techy backend dev boy gif"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://img.icons8.com/?size=100&id=3cONxASh16fq&format=png&color=000000" width="70"/><br><sub>Python</sub>
+        <img src="https://img.icons8.com/?size=100&id=3cONxASh16fq&format=png&color=000000" width="60"/><br><sub>Python</sub>
       </td>
       <td align="center" width="120">
         <img src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000" width="60"/><br><sub>Django</sub>
@@ -38,10 +38,10 @@
         <img src="https://img.icons8.com/?size=100&id=B4JVulF9WFl6&format=png&color=000000" width="60"/><br><sub>REST APIs</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70"/><br><sub>Git</sub>
+        <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="60"/><br><sub>Git</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png&color=000000" width="50"/><br><sub>AWS</sub>
+        <img src="https://icons8.com/icon/e6uRfPIDgoXi/amazon-aws" width="50"/><br><sub>AWS</sub>
       </td>
     </tr>
   </table>
@@ -49,7 +49,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="20" height="20"> Projects
+## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="30" height="30"> Projects
 
 ### JaysOne – Resource & Project Management System
 
@@ -81,7 +81,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000" width="20" height="20"> Connect with Me
+## <img src="https://img.icons8.com/?size=100&id=K24cyk4TVAtl&format=png&color=000000" width="20" height="20"> Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/kanish-v15">
@@ -89,6 +89,9 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kanish2233@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="100"/>
+  </a>
+   <a href="mailto:kanish2233@gmail.com">
+    <img src="https://x.com/kanish2233?t=SAnu5FYTY5IxPbgjD7Aq-A&s=09" width="100"/>
   </a>
 </p>
 
