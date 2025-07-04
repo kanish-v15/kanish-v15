@@ -41,7 +41,7 @@
         <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="60"/><br><sub>Git</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="50"/><br><sub>AWS</sub>
+        <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png&color=000000" width="50"/><br><sub>AWS</sub>
       </td>
     </tr>
   </table>
@@ -87,11 +87,11 @@
   <a href="https://linkedin.com/in/kanish-v15">
     <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" width="100"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kanish2233@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="100"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://x.com/kanish2233?t=SAnu5FYTY5IxPbgjD7Aq-A&s=09">
+  <a href="https://x.com/kanish2233?t=SAnu5FYTY5IxPbgjD7Aq-A&s=09">
     <img src="https://img.icons8.com/?size=100&id=I02TdaPxbwRz&format=png&color=000000" width="100"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:kanish2233@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="100"/>
   </a>
 </p>
 
