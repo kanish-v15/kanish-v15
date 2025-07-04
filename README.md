@@ -26,22 +26,22 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><sub>Python</sub>
+        <img src="https://img.icons8.com/?size=100&id=3cONxASh16fq&format=png&color=000000" width="70"/><br><sub>Python</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60"/><br><sub>Django</sub>
+        <img src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000" width="60"/><br><sub>Django</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/null/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" width="60"/><br><sub>PostgreSQL</sub>
+        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="60"/><br><sub>PostgreSQL</sub>
       </td>
       <td align="center" width="120">
         <img src="https://img.icons8.com/ios-filled/100/000000/api.png" width="60"/><br><sub>REST APIs</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><sub>Git</sub>
+        <img src="https://img.icons8.com/?size=100&id=xsw4abnRMBHa&format=png&color=000000" width="60"/><br><sub>Git</sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/><br><sub>AWS</sub>
+        <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png&color=000000" width="60"/><br><sub>AWS</sub>
       </td>
     </tr>
   </table>
