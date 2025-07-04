@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Techy backend dev boy gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGVhb3pmajNoMW85eGw2b2ticnFsaWZnMDBtYzJ3M3R4Y3k2bHNzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" width="360" alt="Techy backend dev boy gif"/>
 </p>
 
 ---
