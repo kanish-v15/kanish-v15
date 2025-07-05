@@ -51,25 +51,6 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="30" height="30"> Projects
 
-### JaysOne – Resource & Project Management System
-
-- Internal tool for managing resources, projects, and financials across teams.
-- Core backend designed using Django + DRF.
-- PostgreSQL DB schema with optimized queries and relationships.
-- Delivered APIs for dashboard insights (P&L, allocations, onboarding/offboarding).
-- Supported GCP/AWS deployment and GitHub-based CI.
-
----
-
-### Techjays Website – Webflow Dev + Automation
-
-- Developed and maintained company site using Webflow.
-- Integrated Zapier + HubSpot + Gmail for smart lead capture.
-- Created pages like **operator.ai**, **BFSI**, and **our partners** with modern UX.
-- Collaborated with design team and published engineering blogs regularly.
-
----
-
 ## <img src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000" width="20" height="20"> GitHub Stats
 
 <p align="center">
