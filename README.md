@@ -49,8 +49,6 @@
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=PmeFBIleErnX&format=png&color=000000" width="30" height="30"> Projects
-
 ## <img src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000" width="20" height="20"> GitHub Stats
 
 <p align="center">
