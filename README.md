@@ -14,7 +14,6 @@
 - Software Engineer at **Techjays**, passionate about clean backend architecture.
 - Specialized in **Python**, **Django**, and **Django REST Framework** to craft efficient and scalable APIs.
 - Experience with **PostgreSQL**, **AWS**, **GCP**, and **Supabase** for modern backend development.
-- Built tools like **JaysOne** for resource/project management with analytics dashboards.
 - Also contributed to frontend/web presence with **Webflow**, Zapier, and content publishing.
 - Exploring AI productivity tools and no-code platforms like **lovable.dev**, **bolt.new**, and **v0.dev**.
 
