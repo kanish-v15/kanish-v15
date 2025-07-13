@@ -62,10 +62,10 @@
 ## <img src="https://img.icons8.com/?size=100&id=K24cyk4TVAtl&format=png&color=000000" width="20" height="20"> Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kanish-v15">
+  <a href="https://linkedin.com/in/kanishv">
     <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" width="100"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/kanish2233?t=SAnu5FYTY5IxPbgjD7Aq-A&s=09">
+  <a href="https://x.com/kanish2233">
     <img src="https://img.icons8.com/?size=100&id=I02TdaPxbwRz&format=png&color=000000" width="100"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:kanish2233@gmail.com">
