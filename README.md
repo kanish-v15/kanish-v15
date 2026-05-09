@@ -65,11 +65,10 @@
 
 <br/><br/>
 
-**Frontend · Mobile**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
-<img src="https://skillicons.dev/icons?i=reactnative" title="React Native" onerror="this.src='https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB'" />&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" />
 
 <br/><br/>
@@ -80,5 +79,4 @@
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />&nbsp;
 <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />&nbsp;
-<img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />&nbsp;
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="48" title="Railway" />
+<img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />
