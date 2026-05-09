@@ -1,23 +1,28 @@
 # Kanish V
+
 **AI Engineer · Python · LLMs · Agents**
 
 ---
 
-**Now**&nbsp;
-Building LLM-powered systems. Pipelines, agents, and the infra that keeps them reliable in prod.
+<p><strong>Now</strong>&nbsp; Building LLM-powered systems. Pipelines, agents, and the infra that keeps them reliable in prod.</p>
 
-**What I build**
-
+<p>
+<strong>What I build</strong><br/>
 ▸ Agent frameworks and multi-step LLM pipelines<br/>
 ▸ RAG systems, tool-use, structured outputs<br/>
 ▸ Full-stack AI apps. Python backend, Next.js frontend.
+</p>
 
-**Find me**&nbsp;
-[kanishv.in](https://kanishv.in) &nbsp;·&nbsp; [@kanish2233](https://x.com/kanish2233) &nbsp;·&nbsp; [in/kanishv](https://linkedin.com/in/kanishv)
+<p>
+<strong>Find me</strong>&nbsp;
+<a href="https://kanishv.in">kanishv.in</a> &nbsp;·&nbsp;
+<a href="https://x.com/kanish2233">@kanish2233</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/kanishv">in/kanishv</a>
+</p>
 
 ---
 
-*Most of what I ship lives in private repos. Public ones are the tip.*
+<sub><i>Most of what I ship lives in private repos. Public ones are the tip.</i></sub>
 
 ---
 
@@ -30,21 +35,21 @@ Building LLM-powered systems. Pipelines, agents, and the infra that keeps them r
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres" title="SQL" />
 
-<br/>
+<br/><br/>
 
 **LLM · Agentic · Retrieval**
 
-<img src="https://skillicons.dev/icons?i=openai" title="OpenAI" />&nbsp;
-<img src="https://img.shields.io/badge/-Anthropic-c96442?style=flat-square&logo=anthropic&logoColor=white" height="48" title="Anthropic" />&nbsp;
-<img src="https://img.shields.io/badge/-Gemini-1a73e8?style=flat-square&logo=googlegemini&logoColor=white" height="48" title="Gemini" />&nbsp;
-<img src="https://img.shields.io/badge/-OpenRouter-6467F2?style=flat-square&logo=openrouter&logoColor=white" height="48" title="OpenRouter" />&nbsp;
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="48" title="LangChain" />&nbsp;
-<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=3fb950" height="48" title="LangGraph" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ollama" title="Ollama" />&nbsp;
-<img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="48" title="HuggingFace" />&nbsp;
-<img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" height="48" title="Pinecone" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="48" title="OpenAI" />&nbsp;
+<img src="https://img.shields.io/badge/Anthropic-c96442?style=flat-square&logo=anthropic&logoColor=white" height="48" title="Anthropic" />&nbsp;
+<img src="https://img.shields.io/badge/Gemini-1a73e8?style=flat-square&logo=googlegemini&logoColor=white" height="48" title="Gemini" />&nbsp;
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logo=openrouter&logoColor=white" height="48" title="OpenRouter" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="48" title="LangChain" />&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=3fb950" height="48" title="LangGraph" />&nbsp;
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" height="48" title="Ollama" />&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="48" title="HuggingFace" />&nbsp;
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" height="48" title="Pinecone" />
 
-<br/>
+<br/><br/>
 
 **Backend · APIs · Data**
 
@@ -58,16 +63,16 @@ Building LLM-powered systems. Pipelines, agents, and the infra that keeps them r
 <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
 <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
 
-<br/>
+<br/><br/>
 
 **Frontend · Mobile**
 
 <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
-<img src="https://skillicons.dev/icons?i=react" title="React Native" />&nbsp;
+<img src="https://skillicons.dev/icons?i=reactnative" title="React Native" onerror="this.src='https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB'" />&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" />
 
-<br/>
+<br/><br/>
 
 **Infra · Cloud**
 
@@ -76,4 +81,4 @@ Building LLM-powered systems. Pipelines, agents, and the infra that keeps them r
 <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />&nbsp;
 <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />&nbsp;
 <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />&nbsp;
-<img src="https://skillicons.dev/icons?i=railway" title="Railway" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="48" title="Railway" />
